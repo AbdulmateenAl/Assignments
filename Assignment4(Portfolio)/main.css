@@ -1,0 +1,12 @@
+nav {
+    background-color: aqua;
+    letter-spacing: 2px;
+    text-align: center;
+    font-size: 18px;
+    position: sticky;
+    word-spacing: 8px;
+}
+
+h4 {
+    text-decoration: underline;
+}

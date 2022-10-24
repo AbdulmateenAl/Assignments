@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.middle h1 {
+    position: relative;
+    top: 15vh;
+    left: 45vw;
+    padding: 50px 15px;
+    width: 10vw;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.center {
+    position: relative;
+    top: 18vh;
+    left: 42vw;
+    padding: 10px 20px;
+    border: 2px solid black;
+    width: 20vw;
+}
+
+button {
+    width: 20vw;
+    height: 5vh;
+    border-radius: 25px;
+}
